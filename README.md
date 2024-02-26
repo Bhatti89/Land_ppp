@@ -12,7 +12,7 @@ This project aims to streamline real estate operations by providing an efficient
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/property-management-system.git
+   git clone https://github.com/Bhatti89/property-management-system.git
    cd property-management-system
 
 2. Install dependencies using Composer:
